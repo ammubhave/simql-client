@@ -1,4 +1,4 @@
-simql-client
+simql-server
 ============
 
-SimQL Client
+SimQL Server
